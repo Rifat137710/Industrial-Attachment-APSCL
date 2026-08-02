@@ -4,7 +4,7 @@
 **Major group:** Electrical Energy and Power System (EEPS)
 **Host:** Ashuganj Power Station Company Limited (APSCL), Brahmanbaria, Bangladesh
 **Period:** November 2025
-**Full report:** [`Industrial_Attachment_Report_APSCL_NOV_2025.pdf`](Industrial_Attachment_Report_APSCL_NOV_2025.pdf)
+**Full report:** [`Industrial Attachment Report_APSCL VISIT (NOV 2025).pdf`](Industrial Attachment Report_APSCL VISIT (NOV 2025).pdf)
 
 ---
 
